@@ -1,0 +1,73 @@
+/* .Top{
+  text-align: center;
+  background-color: azure;
+  color: red;
+} */
+.helpbtn{
+    margin-left: 90%;
+    
+  }
+  .btn{
+    margin-left: 20px;
+  }
+  button{
+    padding:10px;
+    background-color: black;
+    color:white;
+    cursor: pointer;
+    
+  }
+  .h11{
+    text-align: center;
+  }
+  .boxes{
+    /* border:2px solid blue; */
+    margin:30px 70px;
+  }
+  .secondbox{
+    border:2px solid gray;
+    background-color: blueviolet;
+  }
+  .secondbox h2{
+    text-align: center;
+  }
+  .secondbox select{
+    margin-left: 40%;
+    margin-right: 10px;
+    margin-bottom:20px;
+  }
+  .secondbox button{
+    margin-left: 1%;
+  }
+  .thirdbox{
+    border:2px solid gray;
+    margin-top: 10px;
+    background-color: aqua;
+  }
+  .thirdbox h2{
+    text-align: center;
+  }
+  .thirdbox button{
+    margin-left: 2%;
+    margin-bottom: 10px;
+  }
+  .thirdbox input{
+    margin-left: 40%;
+  }
+  .firstbox{
+    border: 2px solid gray;
+    margin-bottom: 10px;
+    background-color: darkkhaki;
+  }
+  .firstbox h2{
+    text-align: center;
+  }
+  progress{
+    margin-left: 10%;
+    margin-bottom: 10px;
+    padding: 20px 40%;
+  }
+  .Home{
+    background-color: antiquewhite;
+    margin-bottom: 100%;
+  }

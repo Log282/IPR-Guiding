@@ -1,0 +1,148 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+
+}
+.App-logo{
+  height:40vmin;
+  
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+
+.helpbtn{
+  margin-left: 90%;
+  
+}
+.btn{
+  margin-left: 20px;
+}
+button{
+  padding:10px;
+  background-color: black;
+  color:white;
+  cursor: pointer;
+}
+.h11{
+  text-align: center;
+}
+.boxes{
+  /* border:2px solid blue; */
+  margin:30px 70px;
+}
+.secondbox{
+  border:2px solid gray;
+  background-color: blueviolet;
+}
+.secondbox h2{
+  text-align: center;
+}
+.secondbox select{
+  margin-left: 40%;
+  margin-right: 10px;
+  margin-bottom:20px;
+}
+.secondbox button{
+  margin-left: 1%;
+}
+.thirdbox{
+  border:2px solid gray;
+  margin-top: 10px;
+  background-color: aqua;
+}
+.thirdbox h2{
+  text-align: center;
+}
+.thirdbox button{
+  margin-left: 2%;
+  margin-bottom: 10px;
+}
+.thirdbox input{
+  margin-left: 40%;
+}
+.firstbox{
+  border: 2px solid gray;
+  margin-bottom: 10px;
+  background-color: darkkhaki;
+}
+.firstbox h2{
+  text-align: center;
+}
+progress{
+  margin-left: 10%;
+  margin-bottom: 10px;
+  padding: 20px 40%;
+}
+.Home{
+  background-color: antiquewhite;
+  padding-bottom: 100%;
+}
+.Home1{
+  background-color: rgb(200, 250, 200);
+}
+.leftside{
+  background-color: rgb(255, 243, 71);
+  /* margin-right: 80%; */
+  padding-right: 15.9%;
+  padding-bottom: 50%;
+}
+.mentorbtn{
+  padding: 30%;
+  padding-right: 366%;
+  border: 3px solid black;
+  background-color: blueviolet;
+}
+.eventbtn{
+  padding: 30%;
+  padding-right: 380%;
+  border: 3px solid black;
+  background-color: orangered;
+}
+.body{
+  display: flex;
+}
+.middle{
+  margin-left: 15%;
+}
+.rightside{
+  margin-left: 15%;
+}
+.joinbtn{
+  margin-left: 36%;
+}
+.Top{
+  padding-left: 43%;
+}
